@@ -1,0 +1,1 @@
+print("i am anti carti shit also fan ")
